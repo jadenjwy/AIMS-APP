@@ -22,7 +22,7 @@ This tutorial will run you through AIMS' interface. We're going to look at appli
 
 
 
-우측 상단의 설정 버튼을 누르는 경우 프로젝트를 저장하는 공간인 Workspace directory나 프로젝트를 위해 공유하는 데이터를 저장하는 공간인 Database Directory를 변경할 수 있습니다.
+우측 상단의 설정 버튼을 누르는 경우 프로젝트를 저장하는 공간인 **Workspace directory**나 프로젝트를 위해 공유하는 데이터를 저장하는 공간인 **Database Directory**를 변경할 수 있습니다.
 
 
 ![application-preference](./application-preference.png)
@@ -132,7 +132,7 @@ references
 
 
 프로젝트의 설정을 마친 후 재생 버튼으로 프로젝트를 실행할 수 있습니다.
-'서브 페키지 디펜던스'들을 설치 하지 않았기 때문에 첫 프로젝트의 실행시간이 다소 길어질 수 있습니다.
+'**서브 페키지 디펜던스**'들을 설치 하지 않았기 때문에 첫 프로젝트의 실행시간이 다소 길어질 수 있습니다.
 프로젝트를 실행하는 경우 다른 버튼들은 비활성화됩니다.
 
 
