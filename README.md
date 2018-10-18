@@ -49,9 +49,7 @@ This tutorial will run you through AIMS' interface. We're going to look at appli
 ![project-main-1](./project-main-1.png)
 
 
-패키지 의존성의 설명
-export 현재 결과값을 다른이름으로 저장 ooo.aims.proj  
-다른 컴퓨터에서도 열수 있다.
+패키지 정보란에는 이름과 버전 정보, 패키지 의존성에 대해 알 수 있습니다. export 버튼으로 현재 결과값을 저장하여(OOO.aims.proj) 다른 pc에서도 불러올 수 있습니다.  
 Reset Workflow Status 설명
 Reset All Settings 설명
 
@@ -63,8 +61,9 @@ Reset All Settings 설명
 ------------------
 프로젝트의 카드는 각각에 해당하는 task(실행하는 코드)가 있으며 프로젝트는 최상단의 카드부터 순차적으로 진행됩니다.
 
-
 목적의 설정 복수 선택가능
+
+
 ![objective](https://github.com/antonionote85/AIMS-APP/blob/master/objective.png)
 
 
