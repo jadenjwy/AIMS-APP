@@ -139,7 +139,7 @@ references
 ![project-start-1](./project-start-1.png)
 
 
-'running'의 표시는 해당 카드의 task가 실행되고 있음을 의미합니다.
+'**running**'의 표시는 해당 카드의 task가 실행되고 있음을 의미합니다.
 
 
 ![project-start-2](./project-start-2.png)
@@ -151,7 +151,7 @@ references
 ![project-start-3](./project-start-3.png)
 
 
-해당 카드의 tast만 실행하고자 하는 경우 'run-this-section-only'를 선택합니다.
+해당 카드의 tast만 실행하고자 하는 경우 '**run-this-section-only**'를 선택합니다.
 
 
 ![run-this-section-only](./run-this-section-only.png)
