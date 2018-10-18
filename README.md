@@ -5,7 +5,7 @@ AIMS APP TUTORIAL
 
 This tutorial will run you through AIMS' interface. We're going to look at application preference, the Projects and everything you need to know to get started with the AIMS.
 
-설치
+1.설치
 --------------------------
 [AIMS.APCC21.ORG](http://aims.apcc21.org)에 접속하여 운영체제에 맞는 프로그램을 다운받아 설치합니다.
 설치 과정과 유저 인터페이스는 윈도우와 맥 모두 같습니다.
@@ -13,7 +13,7 @@ This tutorial will run you through AIMS' interface. We're going to look at appli
 
 ![set-up](./set-up.png) 
 
-2. 실행 화면
+2.실행 화면
 ----------------------
  첫화면에서 AIMS의 News에 대해 알 수 있고 새로운 프로젝트를 추가할 수 있습니다. 우측 상단의 버튼을 눌러서 설정 변경도 가능합니다. 
 
@@ -28,7 +28,7 @@ This tutorial will run you through AIMS' interface. We're going to look at appli
 ![application-preference](./application-preference.png)
 
 
-3. 프로젝트의 생성
+3.프로젝트의 생성
 ---------------- 
 
 첫 화면에서 프로젝트를 추가하여 프로젝트 타입과 프로젝트명을 설정합니다. 
@@ -59,7 +59,7 @@ Reset All Settings 설명
 ![project-main-2](https://github.com/antonionote85/AIMS-APP/blob/master/project-main-2.png)
 
 
-4. 프로젝트 실행전 설정
+4.프로젝트 실행전 설정
 ------------------
 프로젝트의 카드는 각각에 해당하는 task(실행하는 코드)가 있으며 프로젝트는 최상단의 카드부터 순차적으로 진행됩니다.
 
@@ -128,7 +128,7 @@ references
 ![references](./references.png)
 
 
-5. 프로젝트의 실행
+5.프로젝트의 실행
 ---------------------
 
 
