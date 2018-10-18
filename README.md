@@ -75,26 +75,26 @@ stop
 
 down scale
 
-![downscale](https://github.com/antonionote85/AIMS-APP/blob/master/downscale.png)
+![downscale](./downscale.png)
 
 climate-change-index-calculation
 
-![u7](file://C:/Users/antonio/Desktop/새 폴더/climate-change-index-calculation.png)
-![u7](file://C:/Users/antonio/Desktop/새 폴더/climate-change-index-calculation-2.png)
+![climate-change-index-calculation](./climate-change-index-calculation.png)
+![climate-change-index-calculation-2](./climate-change-index-calculation-2.png)
 
 weight-factor-and-uncertainly-for-GCMs
 
-![u7](file://C:/Users/antonio/Desktop/새 폴더/weight-factor-and-uncertainly-for-GCMs.png)
-![u7](file://C:/Users/antonio/Desktop/새 폴더/weight-factor-and-uncertainly-for-GCMs-2.png)
+![weight-factor-and-uncertainly-for-GCMs](./weight-factor-and-uncertainly-for-GCMs.png)
+![weight-factor-and-uncertainly-for-GCMs-2](./weight-factor-and-uncertainly-for-GCMs-2.png)
 
 modeling-drought-index
 
-![u7](file://C:/Users/antonio/Desktop/새 폴더/modeling-drought-index.png)
-![u7](file://C:/Users/antonio/Desktop/새 폴더/modeling-drought-index-2.png)
+![modeling-drought-index](./modeling-drought-index.png)
+![modeling-drought-index-2](./modeling-drought-index-2.png)
 
 references
 
-![u7](file://C:/Users/antonio/Desktop/새 폴더/references.png)
+![references](./references.png)
 
 5. 프로젝트의 실행
 ---------------------
@@ -102,16 +102,16 @@ references
 프로젝트의 설정을 마친 후 재생 버튼으로 
 '서브 페키지 디펜던스'들을 설치 하지 않았기 때문에 첫 프로젝트 실행은 시간이 더 소요될 수 있습니다.
 프로젝트를 실행하는 경우 다른 버튼들은 비활성화됩니다.
-![u7](file://C:/Users/antonio/Desktop/새 폴더/project-start-1.png)
+![project-start-1](./project-start-1.png)
 
 'running'의 표시는 해당 카드의 task가 실행되고 있음을 의미합니다.
 
-![u7](file://C:/Users/antonio/Desktop/새 폴더/project-start-2.png)
+![project-start-2](./project-start-2.png)
 
 'error'가 나는 경우 로그파일을 확인하여 이유를 확인할 수 있습니다.
 
-![u7](file://C:/Users/antonio/Desktop/새 폴더/project-start-3.png)
+![project-start-3](./project-start-3.png)
 
 해당 카드의 tast만 실행하고자 하는 경우 'run-this-section-only'를 선택합니다.
 
-![u7](file://C:/Users/antonio/Desktop/새 폴더/run-this-section-only.png)
+![run-this-section-only](./run-this-section-only.png)
