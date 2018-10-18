@@ -10,6 +10,7 @@ This tutorial will run you through AIMS' interface. We're going to look at appli
 [AIMS.APCC21.ORG](http://aims.apcc21.org)에 접속하여 운영체제에 맞는 프로그램을 다운받아 설치합니다.
 설치 과정과 유저 인터페이스는 윈도우와 맥 모두 같습니다.
 설치가 끝나는 경우 바탕화면에 아이콘이 생성되고 프로그램이 바로 실행됩니다.
+
 ![set-up](https://github.com/antonionote85/AIMS-APP/blob/master/set-up.png) 
 
 2. 실행 화면
