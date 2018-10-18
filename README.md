@@ -4,8 +4,7 @@ AIMS APP TUTORIAL
 다운로드 및 설치 
 
 This tutorial will run you through AIMS' interface. We're going to look at application preference, the Projects and everything you need to know to get started with the AIMS.
-
-1. 설치
+설치
 --------------------------
 [AIMS.APCC21.ORG](http://aims.apcc21.org)에 접속하여 운영체제에 맞는 프로그램을 다운받아 설치합니다.
 설치 과정과 유저 인터페이스는 윈도우와 맥 모두 같습니다.
