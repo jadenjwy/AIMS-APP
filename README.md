@@ -29,18 +29,25 @@ This tutorial will run you through AIMS' interface. We're going to look at appli
 
 
 3. 프로젝트의 생성
-----------------
+---------------- 
+
 첫 화면에서 프로젝트를 추가하여 프로젝트 타입과 프로젝트명을 설정합니다. 
+
 
 ![create-a-new-project](./create-a-new-project.png)
 
+
 생성된 프로젝트 중 실행할 프로젝트를 선택합니다
+
 
 ![project](./project.png)
 
+
 프로젝트를 선택해서 들어온 첫화면에서는 좌측상단의 홈버튼으로 첫페이지로 이동할 수 있습니다. 중앙 상단의 재생 버튼 프로젝트를 실행할 수 있고, 새로재생 버튼으로 프로젝트를 다시 시작할 수 있습니다. 우측에는 해당 프로젝트의 이름과 설명을 확인할수 있습니다.
 
+
 ![project-main-1](./project-main-1.png)
+
 
 패키지 의존성의 설명
 export 현재 결과값을 다른이름으로 저장 ooo.aims.proj  
@@ -48,73 +55,104 @@ export 현재 결과값을 다른이름으로 저장 ooo.aims.proj
 Reset Workflow Status 설명
 Reset All Settings 설명
 
+
 ![project-main-2](https://github.com/antonionote85/AIMS-APP/blob/master/project-main-2.png)
+
 
 4. 프로젝트 실행전 설정
 ------------------
 프로젝트의 카드는 각각에 해당하는 task(실행하는 코드)가 있으며 프로젝트는 최상단의 카드부터 순차적으로 진행됩니다.
 
+
 목적의 설정 복수 선택가능
 ![objective](https://github.com/antonionote85/AIMS-APP/blob/master/objective.png)
 
+
 데이터 소스 - 지역선택
+
 
 ![data-source](https://github.com/antonionote85/AIMS-APP/blob/master/data-source.png)
 
+
 로컬데이터
+
 
 ![local-data](https://github.com/antonionote85/AIMS-APP/blob/master/local-data.png)
 ![local-data-2](https://github.com/antonionote85/AIMS-APP/blob/master/local-data-2.png)
 
+
 evaluate observed data
+
 
 ![evaluate observed data](https://github.com/antonionote85/AIMS-APP/blob/master/evaluate%20observed%20data.png
 )
 
+
 stop
+
 
 ![stop](https://github.com/antonionote85/AIMS-APP/blob/master/stop.png)
 ![stop-2](https://github.com/antonionote85/AIMS-APP/blob/master/stop-2.png)
 
+
 down scale
+
 
 ![downscale](./downscale.png)
 
+
 climate-change-index-calculation
+
 
 ![climate-change-index-calculation](./climate-change-index-calculation.png)
 ![climate-change-index-calculation-2](./climate-change-index-calculation-2.png)
 
+
 weight-factor-and-uncertainly-for-GCMs
+
 
 ![weight-factor-and-uncertainly-for-GCMs](./weight-factor-and-uncertainly-for-GCMs.png)
 ![weight-factor-and-uncertainly-for-GCMs-2](./weight-factor-and-uncertainly-for-GCMs-2.png)
 
+
 modeling-drought-index
+
 
 ![modeling-drought-index](./modeling-drought-index.png)
 ![modeling-drought-index-2](./modeling-drought-index-2.png)
 
+
 references
 
+
 ![references](./references.png)
+
 
 5. 프로젝트의 실행
 ---------------------
 
+
 프로젝트의 설정을 마친 후 재생 버튼으로 
 '서브 페키지 디펜던스'들을 설치 하지 않았기 때문에 첫 프로젝트 실행은 시간이 더 소요될 수 있습니다.
 프로젝트를 실행하는 경우 다른 버튼들은 비활성화됩니다.
+
+
 ![project-start-1](./project-start-1.png)
+
 
 'running'의 표시는 해당 카드의 task가 실행되고 있음을 의미합니다.
 
+
 ![project-start-2](./project-start-2.png)
+
 
 'error'가 나는 경우 로그파일을 확인하여 이유를 확인할 수 있습니다.
 
+
 ![project-start-3](./project-start-3.png)
 
+
 해당 카드의 tast만 실행하고자 하는 경우 'run-this-section-only'를 선택합니다.
+
 
 ![run-this-section-only](./run-this-section-only.png)
