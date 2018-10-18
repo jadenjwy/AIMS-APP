@@ -17,13 +17,16 @@ This tutorial will run you through AIMS' interface. We're going to look at appli
 ----------------------
  첫화면에서 AIMS의 News에 대해 알 수 있고 새로운 프로젝트를 추가할 수 있습니다. 우측 상단의 버튼을 눌러서 설정 변경도 가능합니다. 
 
+
 ![first-main](./first-main.png)
+
 
 
 우측 상단의 설정 버튼을 누르는 경우 프로젝트를 저장하는 공간인 Workspace directory나 프로젝트를 위해 공유하는 데이터를 저장하는 공간인 Database Directory를 변경할 수 있습니다.
 
 
 ![application-preference](./application-preference.png)
+
 
 3. 프로젝트의 생성
 ----------------
